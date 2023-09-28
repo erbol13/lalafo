@@ -1,0 +1,13 @@
+.c1 {
+    border: 0;
+    background-color: #ff2366;
+    padding: 12px 40px;
+    border-radius: 30px;
+    color: #fff;
+
+}
+.flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
